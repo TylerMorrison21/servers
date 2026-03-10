@@ -1197,6 +1197,7 @@ search, and comprehensive file analysis.
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, PDF, DOCX (.docx), csv and more.
 - **[Paradex MCP](https://github.com/sv/mcp-paradex-py)** - MCP native server for interacting with Paradex platform, including fully features trading.
 - **[Parliament MCP]([https://github.com/sv/mcp-paradex-py](https://github.com/i-dot-ai/parliament-mcp))** - MCP server for querying UK parliamentary data.
+- - **[PaperFlow MCP](https://github.com/TylerMorrison21/paperflow-mcp)** - MCP server for converting academic PDFs into clean Markdown with LaTeX equations, figures, tables, and citation footnotes for Claude and AI research workflows.
 - **[PDF reader MCP](https://github.com/gpetraroli/mcp_pdf_reader)** - MCP server to read and search text in a local PDF file.
 - **[PDF Tools MCP](https://github.com/Sohaib-2/pdf-mcp-server)** - Comprehensive PDF manipulation toolkit (merge, split, encrypt, optimize and much more)
 - **[PDMT](https://github.com/paiml/pdmt)** - Pragmatic Deterministic MCP Templating - High-performance deterministic templating library with comprehensive todo validation, quality enforcement, and 0.0 temperature generation for reproducible outputs.
